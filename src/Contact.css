@@ -41,3 +41,12 @@
 .contact-para{
     font-size: 20px;
 }
+
+@media  (max-width: 600px) {
+    .contact-para{
+        font-size: 14px;
+    }
+    .my-contact-row{
+        width: 85%;
+    }
+}

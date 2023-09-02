@@ -28,3 +28,21 @@
     border: 1px solid #7843e9;
     color: #7843e9; 
 }
+
+@media  (max-width: 600px) {
+    .project-para{
+        font-size: 13px;
+    }
+    .project-row{
+        width: 200% !important;
+        
+    }
+    .project-row .col-12{
+        display: flex;
+        justify-content: center;
+    }
+    .card{
+        text-align: left;
+        width: 90%;
+    }
+}

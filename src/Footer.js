@@ -6,13 +6,13 @@ function Footer() {
     <div className="row text-white bg-dark">
       <div className="col-12 my-footer">
         <div className="row my-footer-row">
-          <div className="col-6">
+          <div className="col-6 footer-head-div">
             <h4 className="footer-head">Praveenraj subramaniyan</h4>
           </div>
-          <div className="col-6 text-center">
+          <div className="col-12 col-sm-6 text-center">
             <h4 className="footer-head">CONTACT</h4>
             <div>
-              <ul className="contact-list primary-text-color">
+              <ul className="contact-list">
                 <a href="tel:+918870118193" target="_blank">
                   <li className="bg-white">
                     <i className="fa fa-phone text-dark"></i>

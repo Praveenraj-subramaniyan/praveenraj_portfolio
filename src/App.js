@@ -18,7 +18,7 @@ function App() {
           </div>
           <form className="">
             <button
-              className="navbar-toggler"
+              className="navbar-toggler mx-3"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#mynavbar"

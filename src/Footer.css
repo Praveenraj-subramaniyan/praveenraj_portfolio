@@ -38,3 +38,14 @@
     padding: 0 5px;
     line-height: 1.9 !important;
 }
+@media (max-width:600px) {
+    .footer-head-div{
+        display: none;
+    }
+    .contact-list a{
+        margin-left: 10%;
+    }
+    .my-footer-row{
+        padding-left: 0%;
+    }
+}

@@ -31,3 +31,15 @@ font-weight: 800 !important;
 .my-project{
  margin-top: 20px;
 }
+
+@media  (max-width: 600px) {
+    .heading-primary{
+        font-size: 100%;
+        font-weight: 600 ;
+        margin-bottom: 15%;
+        }
+        .home-para{
+            font-size: 13px;
+            margin-bottom: 15%;
+        }
+}

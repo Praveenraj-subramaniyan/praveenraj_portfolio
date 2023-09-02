@@ -17,15 +17,15 @@ function About() {
 
         <div className="row about__content-details-row">
           <div className="col-12 col-sm-6">
-            <h4 className="about__content-details-head">Get to know me!</h4>
-            <p className="about__content-details-para">
+            <h4 className="">Get to know me!</h4>
+            <p className="about-content-details-para">
               I'm a Full Stack Developer specializing in both the front-end and
               back-end aspects of Websites and Web Applications, driving success
               for the entire product. Explore my diverse portfolio of projects
               in the Projects section.
             </p>
 
-            <p className="about__content-details-para">
+            <p className="about-content-details-para">
               In terms of work experience, I have worked as a Software Developer
               at Syncfusion Software, where I gained valuable experience in web
               application development using ASP.NET Core. I have expertise in
@@ -35,8 +35,8 @@ function About() {
             </p>
           </div>
           <div className="col-12 col-sm-6 my-skills">
-            <h4 className="col-6 my-skills-head">My Skills</h4>
-            <div className="skills gray-text">
+            <h4 className="col-6">My Skills</h4>
+            <div className="skills">
               <div className="skills__skill">HTML</div>
               <div className="skills__skill">CSS</div>
               <div className="skills__skill">Bootstrap</div>

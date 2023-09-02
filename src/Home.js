@@ -20,11 +20,8 @@ function Home() {
               and technical functionality.
             </p>
           </div>
-          {/* <a className="btn btn-primary my-project" href="#project">
-          <span className="btn-span">My Projects</span>
-        </a> */}
           <a
-            href="https://github.com/orgs/Praveenraj-subramaniyan/repositories"
+            href="https://github.com/Praveenraj-subramaniyan"
             target="_blank"
           >
             <button class="btn btn-dark home-social-btn">
