@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/praveenraj_portfolio/static/css/main.47f19661.css",
-    "main.js": "/praveenraj_portfolio/static/js/main.8af27f08.js",
+    "main.css": "/praveenraj_portfolio/static/css/main.f4560f7a.css",
+    "main.js": "/praveenraj_portfolio/static/js/main.14056c12.js",
     "static/js/787.8960d46c.chunk.js": "/praveenraj_portfolio/static/js/787.8960d46c.chunk.js",
-    "static/media/praveen raj s_resume.pdf": "/praveenraj_portfolio/static/media/praveen raj s_resume.77f5921aa0eb3d6bf204.pdf",
+    "static/media/Praveenraj's Resume.pdf": "/praveenraj_portfolio/static/media/Praveenraj's Resume.af155a05fe74889c0b61.pdf",
     "index.html": "/praveenraj_portfolio/index.html",
-    "main.47f19661.css.map": "/praveenraj_portfolio/static/css/main.47f19661.css.map",
-    "main.8af27f08.js.map": "/praveenraj_portfolio/static/js/main.8af27f08.js.map",
+    "main.f4560f7a.css.map": "/praveenraj_portfolio/static/css/main.f4560f7a.css.map",
+    "main.14056c12.js.map": "/praveenraj_portfolio/static/js/main.14056c12.js.map",
     "787.8960d46c.chunk.js.map": "/praveenraj_portfolio/static/js/787.8960d46c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47f19661.css",
-    "static/js/main.8af27f08.js"
+    "static/css/main.f4560f7a.css",
+    "static/js/main.14056c12.js"
   ]
 }
