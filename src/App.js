@@ -1,4 +1,4 @@
-import resume from "./assets/praveen raj s_resume.pdf"
+import resume from "./assets/Praveenraj's Resume.pdf"
 import "./App.css";
 import Home from "./Home";
 import About from "./About";
