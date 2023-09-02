@@ -24,16 +24,16 @@ function Home() {
             href="https://github.com/Praveenraj-subramaniyan"
             target="_blank"
           >
-            <button class="btn btn-dark home-social-btn">
-              <i class="fa fa-github px-2"></i>Github {" "}
+            <button className="btn btn-dark home-social-btn">
+              <i className="fa fa-github px-2"></i>Github {" "}
             </button>
           </a>
           <a
             href="https://www.linkedin.com/in/praveen-raj-132bbb22a/"
             target="_blank"
           >
-            <button class="btn btn-primary home-social-btn">
-              <i class="fa fa-linkedin px-2"></i>LinkedIn
+            <button className="btn btn-primary home-social-btn">
+              <i className="fa fa-linkedin px-2"></i>LinkedIn
             </button>
           </a>
         </div>
