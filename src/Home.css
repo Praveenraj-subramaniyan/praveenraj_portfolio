@@ -7,6 +7,11 @@
     background: linear-gradient(rgba(245, 245, 245, 0.8),white);
 }
 
+.home-social-btn{
+    width: 120px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
 .heading-primary{
 text-transform: uppercase;
 font-size: 300%;

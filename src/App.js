@@ -1,9 +1,10 @@
-import profile from "./assets/profile.jpg";
 import resume from "./assets/praveen raj s_resume.pdf"
 import "./App.css";
 import Home from "./Home";
 import About from "./About";
 import Projects from "./Projects";
+import Contact from "./Contact";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -42,7 +43,7 @@ function App() {
                   </a>
                 </li>
                 <li className="nav-item mx-2">
-                  <a className="nav-link" href="#skills">
+                  <a className="nav-link" href="#Contact">
                     Contacts
                   </a>
                 </li>
@@ -59,6 +60,8 @@ function App() {
         <Home/>
         <About/>
         <Projects/>
+        <Contact/>
+        <Footer/>
     </div>
   );
 }

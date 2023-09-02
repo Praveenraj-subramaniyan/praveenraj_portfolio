@@ -1,0 +1,40 @@
+.my-footer {
+    padding: 32px !important;
+}
+.my-footer-row {
+    padding: 10px 32px;
+}
+.footer-head {
+    font-weight: 600;
+    letter-spacing: 0;
+}
+.footer-content {
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0;
+}
+.contact-list {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 16px;
+    margin-bottom: 0px;
+    font-size: 22px;
+}
+
+.contact-list li:hover{
+    background-color: #eee !important;
+    border: 1px solid #fff !important;
+}
+
+.contact-list li {
+    list-style: none;
+    padding: 0 4px;
+    border-radius: 50%;
+    height: 40px;
+    width: 42px;
+}
+
+.contact-list li i {
+    padding: 0 5px;
+    line-height: 1.9 !important;
+}
