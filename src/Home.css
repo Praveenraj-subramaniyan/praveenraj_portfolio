@@ -1,0 +1,28 @@
+
+.home{
+    min-height: 660px;
+    background-position: center;
+    width: 100%;
+    margin: 0%;
+    background: linear-gradient(rgba(245, 245, 245, 0.8),white);
+}
+
+.heading-primary{
+text-transform: uppercase;
+font-size: 300%;
+font-weight: 800 !important;
+}
+.home-para {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.home-content {
+    text-align: center;
+}
+
+.my-project{
+ margin-top: 20px;
+}

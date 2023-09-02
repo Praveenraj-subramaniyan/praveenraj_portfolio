@@ -1,0 +1,30 @@
+.card{
+    text-align: left;
+    width: 80%;
+}
+.card img{
+    height: 230px;
+}
+.project-para{
+    font-size: 20px;
+}
+.project-row{
+    width: 80% !important;
+}
+.btn-gitrepo{
+    background-color: #7843e9;
+    color: white;
+}
+.btn-gitrepo:hover{
+    border: 1px solid #7843e9;
+    color: #7843e9; 
+}
+.btn-live{
+    background-color: #7843e9;
+    color: white;
+    width: 80%;
+}
+.btn-live:hover{
+    border: 1px solid #7843e9;
+    color: #7843e9; 
+}
