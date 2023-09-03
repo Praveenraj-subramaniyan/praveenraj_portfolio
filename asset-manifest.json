@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/praveenraj_portfolio/static/css/main.f4560f7a.css",
-    "main.js": "/praveenraj_portfolio/static/js/main.c8c1779b.js",
+    "main.js": "/praveenraj_portfolio/static/js/main.26933a28.js",
     "static/js/787.8960d46c.chunk.js": "/praveenraj_portfolio/static/js/787.8960d46c.chunk.js",
     "static/media/Praveenraj's_Resume.pdf": "/praveenraj_portfolio/static/media/Praveenraj's_Resume.af155a05fe74889c0b61.pdf",
     "index.html": "/praveenraj_portfolio/index.html",
     "main.f4560f7a.css.map": "/praveenraj_portfolio/static/css/main.f4560f7a.css.map",
-    "main.c8c1779b.js.map": "/praveenraj_portfolio/static/js/main.c8c1779b.js.map",
+    "main.26933a28.js.map": "/praveenraj_portfolio/static/js/main.26933a28.js.map",
     "787.8960d46c.chunk.js.map": "/praveenraj_portfolio/static/js/787.8960d46c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4560f7a.css",
-    "static/js/main.c8c1779b.js"
+    "static/js/main.26933a28.js"
   ]
 }
