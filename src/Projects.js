@@ -37,15 +37,27 @@ function Projects() {
                     <strong>Key skills :</strong> CRUD, JWT
                   </p>
                   <div className="d-flex justify-content-between">
-                    <a href="https://github.com/Praveenraj-subramaniyan/swiggy-client/" className="btn btn-gitrepo ms-5" target="_blank">
+                    <a
+                      href="https://github.com/Praveenraj-subramaniyan/swiggy-client/"
+                      className="btn btn-gitrepo ms-5"
+                      target="_blank"
+                    >
                       Frontend
                     </a>
-                    <a href="https://github.com/Praveenraj-subramaniyan/swiggy-server/" className="btn btn-gitrepo me-5" target="_blank">
+                    <a
+                      href="https://github.com/Praveenraj-subramaniyan/swiggy-server/"
+                      className="btn btn-gitrepo me-5"
+                      target="_blank"
+                    >
                       Backend
                     </a>
                   </div>
                   <div className="d-flex justify-content-center my-3">
-                    <a href="https://master--praveenswiggycloneapp.netlify.app/" className="btn btn-live" target="_blank">
+                    <a
+                      href="https://master--praveenswiggycloneapp.netlify.app/"
+                      className="btn btn-live"
+                      target="_blank"
+                    >
                       Live
                     </a>
                   </div>
@@ -71,15 +83,27 @@ function Projects() {
                     <strong>Key skills :</strong> Redux, CRUD, JWT
                   </p>
                   <div className="d-flex justify-content-between">
-                    <a href="https://github.com/Praveenraj-subramaniyan/stack-overflow-client/" className="btn btn-gitrepo ms-5" target="_blank">
+                    <a
+                      href="https://github.com/Praveenraj-subramaniyan/stack-overflow-client/"
+                      className="btn btn-gitrepo ms-5"
+                      target="_blank"
+                    >
                       Frontend
                     </a>
-                    <a href="https://github.com/Praveenraj-subramaniyan/stack-overflow-server/" className="btn btn-gitrepo me-5" target="_blank">
+                    <a
+                      href="https://github.com/Praveenraj-subramaniyan/stack-overflow-server/"
+                      className="btn btn-gitrepo me-5"
+                      target="_blank"
+                    >
                       Backend
                     </a>
                   </div>
                   <div className="d-flex justify-content-center my-3">
-                    <a href="https://stack-overflow-clone-praveenraj.netlify.app/" className="btn btn-live" target="_blank">
+                    <a
+                      href="https://stack-overflow-clone-praveenraj.netlify.app/"
+                      className="btn btn-live"
+                      target="_blank"
+                    >
                       Live
                     </a>
                   </div>
@@ -105,15 +129,27 @@ function Projects() {
                     <strong>Key skills :</strong> CRUD, Admin control
                   </p>
                   <div className="d-flex justify-content-between">
-                    <a href="https://github.com/Praveenraj-subramaniyan/crm_client/" className="btn btn-gitrepo ms-5" target="_blank">
+                    <a
+                      href="https://github.com/Praveenraj-subramaniyan/crm_client/"
+                      className="btn btn-gitrepo ms-5"
+                      target="_blank"
+                    >
                       Frontend
                     </a>
-                    <a href="https://github.com/Praveenraj-subramaniyan/crm_server/" className="btn btn-gitrepo me-5" target="_blank">
+                    <a
+                      href="https://github.com/Praveenraj-subramaniyan/crm_server/"
+                      className="btn btn-gitrepo me-5"
+                      target="_blank"
+                    >
                       Backend
                     </a>
                   </div>
                   <div className="d-flex justify-content-center my-3">
-                    <a href="https://stellar-rolypoly-618bc4.netlify.app/" className="btn btn-live" target="_blank">
+                    <a
+                      href="https://stellar-rolypoly-618bc4.netlify.app/"
+                      className="btn btn-live"
+                      target="_blank"
+                    >
                       Live
                     </a>
                   </div>
@@ -122,32 +158,40 @@ function Projects() {
             </div>
             <div className="col-12 col-sm-6 my-4">
               <div className="card">
-                <img
-                  className="card-img-top"
-                  alt="shop image"
-                  src={shop}
-                />
+                <img className="card-img-top" alt="shop image" src={shop} />
                 <div className="card-body">
-                  <h4 className="card-title ">CRM application</h4>
+                  <h4 className="card-title ">Shopping site</h4>
                   <p className="card-text">
                     {" "}
-                    CRM software lets you store customer and prospect contact
-                    information, identify sales opportunities, record service
-                    issues, and manage marketing campaigns.
+                    Online shopping is a form of electronic commerce which
+                    allows consumers to directly buy goods or services from a
+                    seller over the Internet
                   </p>
                   <p>
-                    <strong>Key skills :</strong> CRUD
+                    <strong>Key skills :</strong> CRUD, JWT
                   </p>
                   <div className="d-flex justify-content-between">
-                    <a href="https://github.com/Praveenraj-subramaniyan/shop-homepage/" className="btn btn-gitrepo ms-5" target="_blank">
+                    <a
+                      href="https://github.com/Praveenraj-subramaniyan/shop-homepage/"
+                      className="btn btn-gitrepo ms-5"
+                      target="_blank"
+                    >
                       Frontend
                     </a>
-                    <a href="https://github.com/Praveenraj-subramaniyan/shop-homepage-node/" className="btn btn-gitrepo me-5" target="_blank">
+                    <a
+                      href="https://github.com/Praveenraj-subramaniyan/shop-homepage-node/"
+                      className="btn btn-gitrepo me-5"
+                      target="_blank"
+                    >
                       Backend
                     </a>
                   </div>
                   <div className="d-flex justify-content-center my-3">
-                    <a href="https://shop-home-page-clone.netlify.app/" className="btn btn-live" target="_blank">
+                    <a
+                      href="https://shop-home-page-clone.netlify.app/"
+                      className="btn btn-live"
+                      target="_blank"
+                    >
                       Live
                     </a>
                   </div>
