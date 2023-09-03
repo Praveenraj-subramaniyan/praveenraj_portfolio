@@ -52,7 +52,7 @@ function About() {
           </div>
 
           <div className="col-12">
-            <a className="btn btn-primary" href="#contact">
+            <a className="btn btn-primary" href="#Contact">
               <span className="btn-span">Contact Me!</span>
             </a>
           </div>
