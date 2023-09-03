@@ -1,5 +1,7 @@
 import React from "react";
 import "./Projects.css";
+import shop from "./assets/shop.PNG";
+
 function Projects() {
   return (
     <div className="container-fluid about-sec project-sec" id="project">
@@ -54,7 +56,7 @@ function Projects() {
               <div className="card">
                 <img
                   className="card-img-top"
-                  alt="Swiggy image"
+                  alt="stack overflow image"
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYcfF5apxyC6XkRgWDoECTWTHiFJ-u27f9I-b6JdnM90sEH_g8NyhKjE_NJXYyOzEo4K4&usqp=CAU"
                 />
                 <div className="card-body">
@@ -88,7 +90,7 @@ function Projects() {
               <div className="card">
                 <img
                   className="card-img-top"
-                  alt="Swiggy image"
+                  alt="crm image"
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBJ5lJYnKf8FiWs89usqtW_5SQOEo-kb7oA&usqp=CAU"
                 />
                 <div className="card-body">
@@ -100,7 +102,7 @@ function Projects() {
                     issues, and manage marketing campaigns.
                   </p>
                   <p>
-                    <strong>Key skills :</strong> CRUD, JWT, Admin control
+                    <strong>Key skills :</strong> CRUD, Admin control
                   </p>
                   <div className="d-flex justify-content-between">
                     <a href="https://github.com/Praveenraj-subramaniyan/crm_client/" className="btn btn-gitrepo ms-5" target="_blank">
@@ -112,6 +114,40 @@ function Projects() {
                   </div>
                   <div className="d-flex justify-content-center my-3">
                     <a href="https://stellar-rolypoly-618bc4.netlify.app/" className="btn btn-live" target="_blank">
+                      Live
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-12 col-sm-6 my-4">
+              <div className="card">
+                <img
+                  className="card-img-top"
+                  alt="shop image"
+                  src={shop}
+                />
+                <div className="card-body">
+                  <h4 className="card-title ">CRM application</h4>
+                  <p className="card-text">
+                    {" "}
+                    CRM software lets you store customer and prospect contact
+                    information, identify sales opportunities, record service
+                    issues, and manage marketing campaigns.
+                  </p>
+                  <p>
+                    <strong>Key skills :</strong> CRUD
+                  </p>
+                  <div className="d-flex justify-content-between">
+                    <a href="https://github.com/Praveenraj-subramaniyan/shop-homepage/" className="btn btn-gitrepo ms-5" target="_blank">
+                      Frontend
+                    </a>
+                    <a href="https://github.com/Praveenraj-subramaniyan/shop-homepage-node/" className="btn btn-gitrepo me-5" target="_blank">
+                      Backend
+                    </a>
+                  </div>
+                  <div className="d-flex justify-content-center my-3">
+                    <a href="https://shop-home-page-clone.netlify.app/" className="btn btn-live" target="_blank">
                       Live
                     </a>
                   </div>
