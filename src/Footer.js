@@ -18,14 +18,6 @@ function Footer() {
                     <i className="fa fa-phone text-dark"></i>
                   </li>
                 </a>
-                <a
-                  href="https://api.whatsapp.com/send?phone=9188701181938&text=Hi%2C%20I%20saw%20your%20portfolio%2C%20May%20I%20know%20more%20details....."
-                  target="_blank"
-                >
-                  <li className="bg-white">
-                    <i className="fa fa-whatsapp text-dark"></i>
-                  </li>
-                </a>
                 <a href="mailto:spr887011@gmail.com" target="_blank">
                   <li className="bg-white">
                     <i className="fa fa-envelope text-dark"></i>
