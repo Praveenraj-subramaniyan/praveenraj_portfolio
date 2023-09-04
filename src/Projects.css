@@ -28,6 +28,9 @@
     border: 1px solid #7843e9;
     color: #7843e9; 
 }
+.card-text{
+    height: 100px;
+}
 
 @media  (max-width: 600px) {
     .project-para{
