@@ -163,7 +163,7 @@ function Projects() {
                   <h4 className="card-title ">Shopping site</h4>
                   <p className="card-text">
                     {" "}
-                    Online shopping is a form of electronic commerce which
+                    Online shopping commerce website which
                     allows consumers to directly buy goods or services from a
                     seller over the Internet
                   </p>
