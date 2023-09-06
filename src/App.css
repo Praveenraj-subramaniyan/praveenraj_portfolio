@@ -33,3 +33,6 @@ font-weight: 600;
 .App{
   overflow-x: hidden;
 }
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: #7843e9;
+}
