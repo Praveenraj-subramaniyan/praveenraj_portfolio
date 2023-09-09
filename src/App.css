@@ -34,5 +34,5 @@ font-weight: 600;
   overflow-x: hidden;
 }
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
-  color: red; 
+  color: red;  
 }
