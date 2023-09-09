@@ -10,13 +10,13 @@ function About() {
         </div>
         <div className="about-para">
           <p>
-            Here you will find more information about me, what I do, and <br />{" "}
-            my current skills mostly in terms of programming and technology{" "}
+            Here you will find more information about me, what I do, and 
+            my current skills mostly in terms of programming and technology
           </p>
         </div>
 
         <div className="row about__content-details-row">
-          <div className="col-12 col-sm-6">
+          <div className="col-12 col-lg-6 col-md-12">
             <h4 className="">Get to know me!</h4>
             <p className="about-content-details-para">
               I'm a Full Stack Developer specializing in both the front-end and
@@ -34,7 +34,7 @@ function About() {
               migration, GIT, and AWS Cloud.
             </p>
           </div>
-          <div className="col-12 col-sm-6 my-skills">
+          <div className="col-12 col-lg-6 col-md-12 my-skills">
             <h4 className="col-6">My Skills</h4>
             <div className="skills">
               <div className="skills__skill">HTML</div>

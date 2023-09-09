@@ -50,3 +50,12 @@
         width: 85%;
     }
 }
+
+
+@media (min-width:600px) and (max-width:830px) {
+    .my-contact-row {
+        width: 75%;
+        box-shadow: rgba(100,100,111,.2) 0 7px 29px 0;
+        padding: 32px;
+    }
+}

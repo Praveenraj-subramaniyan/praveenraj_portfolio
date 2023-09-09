@@ -43,3 +43,10 @@ font-weight: 800 !important;
             margin-bottom: 15%;
         }
 }
+
+@media (min-width:600px) and (max-width:830px) {
+    .heading-primary{
+        font-size: 200%;
+        font-weight: 600 ;
+        }
+}
