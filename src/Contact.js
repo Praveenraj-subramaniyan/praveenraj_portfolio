@@ -59,7 +59,7 @@ function Contact() {
             <div className="col-12">
               <form onSubmit={handleSubmit}>
                 <div className="my-contact-input">
-                  <lable className="contact__form-lable">Name</lable>
+                  <label className="contact__form-lable">Name</label>
                   <input
                     className="contact__form-input  input-background"
                     value={sendMessage.name}
@@ -72,7 +72,7 @@ function Contact() {
                 </div>
 
                 <div className="my-contact-input">
-                  <lable className="contact__form-lable ">Email</lable>
+                  <label className="contact__form-lable ">Email</label>
                   <input
                     className="contact__form-input  input-background"
                     value={sendMessage.email}
@@ -85,7 +85,7 @@ function Contact() {
                 </div>
 
                 <div className="my-contact-input">
-                  <lable className="contact__form-lable ">Message</lable>
+                  <label className="contact__form-lable ">Message</label>
                   <textarea
                     className="contact__form-input  input-background text-msg"
                     value={sendMessage.message}
