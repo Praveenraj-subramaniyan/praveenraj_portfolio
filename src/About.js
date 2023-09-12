@@ -27,12 +27,13 @@ function About() {
 
             <p className="about-content-details-para">
               In terms of work experience, I have worked as a Software Developer
-              at Syncfusion Software, where I gained valuable experience in web
+              at <b>Syncfusion</b> Software, where I gained valuable experience in web
               application development using ASP.NET Core. I have expertise in
               Windows application development using Final Builder, WIX, and
               bootstrapper. I am also familiar with Azure DevOp, database
               migration, GIT, and AWS Cloud.
             </p>
+            <p>Currently I'm working as a MERN stack developer at <b>FindHer</b>.</p>
           </div>
           <div className="col-12 col-lg-6 col-md-12 my-skills">
             <h4 className="col-6">My Skills</h4>
