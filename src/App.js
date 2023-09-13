@@ -48,7 +48,7 @@ function App() {
                   </a>
                 </li>
                 <li className="nav-item mx-1 btn-resume-div">
-                <a href={resume} target="_blank" className="btn btn-resume py-1 mt-1">Resume
+                <a href="https://drive.google.com/file/d/16W5AYenyqUk7jJlTz05b6p80yde89Sgs/view?usp=sharing" target="_blank" className="btn btn-resume py-1 mt-1">Resume
                       <i className="fa fa-download px-2 btn-resume-icon"></i> </a>
                 </li>
               </ul>
