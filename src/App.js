@@ -44,7 +44,7 @@ function App() {
                 </li>
                 <li className="nav-item mx-2">
                   <a className="nav-link" href="#Contact">
-                    Contacts
+                    Contact
                   </a>
                 </li>
                 <li className="nav-item mx-1 btn-resume-div">

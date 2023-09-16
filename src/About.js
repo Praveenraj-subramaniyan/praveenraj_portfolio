@@ -37,7 +37,7 @@ function About() {
               Currently I'm working as a MERN stack developer at <b>FindHer</b>.
             </p>
           </div>
-          <div className="col-12 col-lg-6 col-md-12 my-skills">
+          <div className="col-12 col-lg-5 col-md-12 my-skills">
             <h4 className="col-6">My Skills</h4>
             <div className="skills">
               <div className="skills__skill">HTML</div>
@@ -54,7 +54,7 @@ function About() {
             </div>
             <br/>
             <div>
-            <h4 className="col-6 mb-3">Certification</h4>
+            <h4 className="col-6 mb-2">Certification</h4>
             <p className=" mb-1">Guvi Geeks - MERN Stack Developer</p>
             <a href="https://www.guvi.in/verify-certificate?id=54r61g6iLI7NK26930">https://www.guvi.in/verify-certificate?id=54r61g6iLI7NK26930</a>
             </div>

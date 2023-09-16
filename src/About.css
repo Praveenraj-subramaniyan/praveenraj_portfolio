@@ -58,6 +58,16 @@ margin-top:-11px;
     width: fit-content;
 }
 
+.my-skills{
+    margin-left: 8%;
+}
+
+@media (width<1000px){
+    .my-skills{
+        margin-left: 0%;
+    }
+}
+
 @media  (max-width: 600px) {
     .about-para{
         font-size: 13px;
