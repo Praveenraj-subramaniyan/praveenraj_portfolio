@@ -56,7 +56,7 @@ function About() {
             <div>
             <h4 className="col-6 mb-2">Certification</h4>
             <p className=" mb-1">Guvi Geeks - MERN Stack Developer</p>
-            <a href="https://www.guvi.in/verify-certificate?id=54r61g6iLI7NK26930">https://www.guvi.in/verify-certificate?id=54r61g6iLI7NK26930</a>
+            <a href="https://www.guvi.in/verify-certificate?id=54r61g6iLI7NK26930" target="_blank">https://www.guvi.in/verify-certificate?id=54r61g6iLI7NK26930</a>
             </div>
           </div>
 
