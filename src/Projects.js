@@ -4,6 +4,7 @@ import shop from "./assets/shop.PNG";
 import swiggy from "./assets/swiggy.png"
 import stack from "./assets/stack.png"
 import crm from "./assets/crm.jfif"
+import dashboard from "./assets/Dashboard.PNG"
 
 function Projects() {
   return (
@@ -150,6 +151,43 @@ function Projects() {
                   <div className="d-flex justify-content-center my-3">
                     <a
                       href="https://stellar-rolypoly-618bc4.netlify.app/"
+                      className="btn btn-live"
+                      target="_blank"
+                    >
+                      Live
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-12 col-sm-6 my-4">
+              <div className="card">
+                <img
+                  className="card-img-top"
+                  alt="crm image"
+                  src={dashboard}
+                />
+                <div className="card-body">
+                  <h4 className="card-title ">Dashboard</h4>
+                  <p className="card-text">
+                    {" "}
+                    Build a modern web dashboard using Tailwind CSS for a sleek and responsive design. Integrate Firebase Authentication to enable secure Google Sign-In for users.
+                  </p>
+                  <p>
+                    <strong>Key skills :</strong> Tailwind, Firebase Authentication
+                  </p>
+                  <div className="d-flex justify-content-center">
+                    <a
+                      href="https://github.com/spr887011/openinapp/"
+                      className="btn btn-live"
+                      target="_blank"
+                    >
+                      Frontend
+                    </a>
+                  </div>
+                  <div className="d-flex justify-content-center my-3">
+                    <a
+                      href="https://praveenrajdashboard.netlify.app/"
                       className="btn btn-live"
                       target="_blank"
                     >
