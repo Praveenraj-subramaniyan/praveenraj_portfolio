@@ -15,6 +15,11 @@
     background-color: #7843e9;
     color: white;
 }
+.btn-gitrepo-disabled{
+    background-color: #7843e9;
+    color: white;
+    opacity: 0.5;
+}
 .btn-gitrepo:hover{
     border: 1px solid #7843e9;
     color: #7843e9; 

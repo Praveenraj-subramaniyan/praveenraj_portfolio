@@ -176,13 +176,19 @@ function Projects() {
                   <p>
                     <strong>Key skills :</strong> Tailwind, Firebase Authentication
                   </p>
-                  <div className="d-flex justify-content-center">
+                  <div className="d-flex justify-content-between">
                     <a
                       href="https://github.com/spr887011/openinapp/"
-                      className="btn btn-live"
+                      className="btn btn-gitrepo ms-5"
                       target="_blank"
                     >
                       Frontend
+                    </a>
+                       <a
+                      className="btn btn-gitrepo btn-gitrepo-disabled me-5"
+                      disabled
+                    >
+                      Backend
                     </a>
                   </div>
                   <div className="d-flex justify-content-center my-3">
