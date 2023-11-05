@@ -34,7 +34,7 @@ function About() {
               database migration, GIT, and AWS Cloud.
             </p>
             <p>
-              Currently I'm working as a MERN stack developer at <b>FindHer</b>.
+            I worked as a MERN stack developer at FindHer, where my primary tasks included designing and implementing backend APIs, creating responsive and user-friendly front-end interfaces, and ensuring the security and performance of the applications.
             </p>
           </div>
           <div className="col-12 col-lg-5 col-md-12 my-skills">
